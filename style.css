@@ -12,7 +12,7 @@
     background-color: aqua;
 }
 
-#button {
+#random1, #random2, #button {
     font-size: 12;
     font-family: 'Courier New', Courier, monospace;
     background-color: palevioletred;
