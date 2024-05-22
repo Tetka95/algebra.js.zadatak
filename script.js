@@ -8,4 +8,4 @@ function randomNum1 () {
 function randomNum2 () {
     let input2 = document.getElementById("input2");
     input2.value = Math.floor(Math.random()*1000) + 1;
-}
+} ////dodaj random buttone u html
