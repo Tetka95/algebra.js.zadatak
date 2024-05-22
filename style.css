@@ -1,18 +1,18 @@
-.input1, .input2 {
+#input1, #input2 {
     font-size: 12;
     font-family: 'Courier New', Courier, monospace;
     color: deeppink;
     background-color: lightgreen;
 }
 
-.readOnly {
+#readOnly {
     font-size: 12;
     font-family: 'Courier New', Courier, monospace;
     color: blueviolet;
     background-color: aqua;
 }
 
-.button {
+#button {
     font-size: 12;
     font-family: 'Courier New', Courier, monospace;
     background-color: palevioletred;
