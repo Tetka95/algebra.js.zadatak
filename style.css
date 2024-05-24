@@ -19,10 +19,6 @@
     color: white;
 }
 
-.crvena input {
-    background-color: red;
-}
-
-.zelena input[id=rezultat] {
+.zelena [id=rezultat] {
     background-color: green;
 }

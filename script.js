@@ -15,7 +15,7 @@ function zbrojiButton() {
     let result = parseInt(inp1) + parseInt(inp2);
     let getResult = document.getElementById("rezultat");
     getResult.value = result;
-    //result.classList.add("zelena");
+    //result.classList.add("zelena"); -->if else petlja za grešku i za točno
   }
 
   function rnd () {
