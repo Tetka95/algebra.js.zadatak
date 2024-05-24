@@ -18,3 +18,11 @@
     background-color: palevioletred;
     color: white;
 }
+
+.crvena input {
+    background-color: red;
+}
+
+.zelena input[id=rezultat] {
+    background-color: green;
+}
